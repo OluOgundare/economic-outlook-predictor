@@ -1,27 +1,27 @@
-# Credit Standing Analysis Project
+# Economic Sentiment Analysis Project
 
 ## Overview
-This project explores and predicts individual credit score standings based on financial behaviors and other financial factors. The goal is to understand the features influencing credit scores and predict an individual's credit standing.
+This project aims to analyze public articles to understand the economic outlook amidst bank failures and economic uncertainties. By scraping and analyzing content from various financial news sources, we attempt to gauge the general sentiment about the economy's future.
 
-## Questions Addressed
-- What features can be used to predict the outstanding debt of a person? (Regression)
-- Can certain features predict a person's credit standing? (Classification)
-
-## Methodology
-1. **Data Preprocessing**: Cleaning and organizing the dataset.
-2. **Data Visualization**: Illustrating key insights and correlations.
-3. **Machine Learning Models**: Implementing various models for prediction.
-4. **Conclusion**: Summarizing findings and potential future work.
+## Author
+By Oluwasola Ogundare, Sami Motassim, and Nedim Abdelaziz
 
 ## Technologies Used
 - Python
-- Pandas
-- NumPy
+- Requests
+- BeautifulSoup
+- CSV
 - Matplotlib
-- Seaborn
-- Scikit-Learn
+- IPython
+- nbconvert
 
-## Setup and Installation
+## Banks
+![Goldman Sachs]([link-to-goldman-sachs-logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackerx.org%2Fgoldmansachs%2Fgoldman-sachs-logo%2F&psig=AOvVaw3-PwSkqU0594r_F9X1bLgE&ust=1703514219173000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCLDIi5GjqIMDFQAAAAAdAAAAABAE))
+![J.P. Morgan](link-to-jp-morgan-logo)
+![Morgan Stanley](link-to-goldman-sachs-logo)
+![HSBC](link-to-jp-morgan-logo)
+
+## Installation
 To run this project, install the required libraries using:
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+pip install requests BeautifulSoup4 csv matplotlib ipython nbconvert
