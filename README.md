@@ -15,12 +15,6 @@ By Oluwasola Ogundare, Sami Motassim, and Nedim Abdelaziz
 - IPython
 - nbconvert
 
-## Banks
-![Goldman Sachs]
-![J.P. Morgan]
-![Morgan Stanley]
-![HSBC]
-
 ## Installation
 To run this project, install the required libraries using:
 ```bash
