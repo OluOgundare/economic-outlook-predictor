@@ -3,7 +3,7 @@
 ## Overview
 This project aims to analyze public articles to understand the economic outlook amidst bank failures and economic uncertainties. By scraping and analyzing content from various financial news sources, we attempt to gauge the general sentiment about the economy's future.
 
-## Author
+## Authors
 By Oluwasola Ogundare, Sami Motassim, and Nedim Abdelaziz
 
 ## Technologies Used
