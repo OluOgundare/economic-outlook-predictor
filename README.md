@@ -16,10 +16,10 @@ By Oluwasola Ogundare, Sami Motassim, and Nedim Abdelaziz
 - nbconvert
 
 ## Banks
-![Goldman Sachs]([link-to-goldman-sachs-logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackerx.org%2Fgoldmansachs%2Fgoldman-sachs-logo%2F&psig=AOvVaw3-PwSkqU0594r_F9X1bLgE&ust=1703514219173000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCLDIi5GjqIMDFQAAAAAdAAAAABAE))
-![J.P. Morgan](link-to-jp-morgan-logo)
-![Morgan Stanley](link-to-goldman-sachs-logo)
-![HSBC](link-to-jp-morgan-logo)
+![Goldman Sachs]
+![J.P. Morgan]
+![Morgan Stanley]
+![HSBC]
 
 ## Installation
 To run this project, install the required libraries using:
